@@ -3,6 +3,6 @@ public class Animal {
         System.out.println("An animal is born.");
     }
     public void growl(){
-        System.out.println("ROAR");
+        System.out.println("Wot");
     }
 }
